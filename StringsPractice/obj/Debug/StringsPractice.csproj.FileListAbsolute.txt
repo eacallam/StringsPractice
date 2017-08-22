@@ -1,0 +1,2 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringsPractice\StringsPractice\bin\Debug\StringsPractice.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\08.22.17 StringsPractice\StringsPractice\bin\Debug\StringsPractice.exe.config
